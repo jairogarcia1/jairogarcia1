@@ -2,7 +2,7 @@
 Welcome to my Github profile !
 I am Jairo
 - 👀 View my portfolio here: [Portfolio]()
-- 📝 Check out my resume: [Jairo's Resume](https://drive.google.com/file/d/1Rd2YXyiFSdI0NfauhIb85pBYM-4ICubV/view?usp=sharing)
+- 📝 Check out my resume: [Jairo's Resume](https://docs.google.com/document/d/1yWJxCN2_8nxmf9uosEuSwWUvs1HdV-7s8FXMWr_bI2Y/edit?usp=sharing)
 - 💬 Message me here: [Linkedin](https://www.linkedin.com/in/jairo-garcia-4880b51bb/)
 - 📫 Reach me via email: [jairo-123@live.com](jairo-123@live.com)
 
