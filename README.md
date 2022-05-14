@@ -7,6 +7,7 @@
   <img align="center" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
   <img align="center" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img align="center" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+   <img align="center" src="https://img.shields.io/badge/Terminal-2E2E2E?style=for-the-badge&logo=Windows+Terminal&logoColor=ffffff" alt="HTML" />
 </p>
 
 
