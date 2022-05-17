@@ -17,9 +17,6 @@
 - 📫 Reach me via email: [jairo-123@live.com](jairo-123@live.com)
 
 
-<p align="Left"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jairogarcia1&theme=tokyonight&show_icons=true" alt="jairogarcia1" /></p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jairogarcia1&layout=compact)](https://github.com/jairogarcia1/github-readme-stats)
 
 ### Connect with me  
 <div align="center">
