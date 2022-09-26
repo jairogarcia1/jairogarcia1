@@ -11,8 +11,8 @@
 </p>
 
 
-- 👀 View my portfolio here: [Portfolio]()
-- 💬 Message me here: [Linkedin](https://www.linkedin.com/in/jairo-garcia-4880b51bb/)
+- 👀 View my portfolio here: [Portfolio](http://xn--jairogarca-s8a.com/)
+- 💬 Message me here: [Linkedin](https://www.linkedin.com/in/jairo-garc%C3%ADa/)
 - 📫 Reach me via email: [jairo-123@live.com](jairo-123@live.com)
 
 
