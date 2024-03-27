@@ -10,7 +10,7 @@
 </p>
 
 
-- 👀 View my portfolio here: [Portfolio](http://xn--jairogarca-s8a.com/)
+- 👀 View my portfolio here: [Portfolio]([http://xn--jairogarca-s8a.com/](https://jairogarcia1.github.io/Portfolio/))
 - 💬 Message me here: [Linkedin](https://www.linkedin.com/in/jairo-garc%C3%ADa/)
 - 📫 Reach me via email: [jairo-123@live.com](jairo-123@live.com)
 
