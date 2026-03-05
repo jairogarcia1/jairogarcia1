@@ -32,9 +32,6 @@ I'm a Seattle-based IT professional transitioning into **System Administration**
 <a href="https://www.linkedin.com/in/jairo-garc%C3%ADa/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
 </a>  
-<a href="https://github.com/jairogarcia1?tab=repositories" target="_blank">
-<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" />
-</a>
 <a href="mailto:jairo-123@live.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
 </a>
