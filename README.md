@@ -1,32 +1,45 @@
 <h1 align="center">👋 Hi, I'm Jairo</h1> 
-<h3 align="center">I'm a web development student currently looking for new oportunities</h3>
+<h3 align="center">IT Technician | B.S. Network Engineering & Security @ WGU</h3>
 
 <p align="center">
-  <img align="center" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  <img align="center" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
-  <img align="center" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
   <img align="center" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-   <img align="center" src="https://img.shields.io/badge/Terminal-2E2E2E?style=for-the-badge&logo=Windows+Terminal&logoColor=ffffff" alt="HTML" />
+  <img align="center" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img align="center" src="https://img.shields.io/badge/Proxmox-E57020?style=for-the-badge&logo=Proxmox&logoColor=white" alt="Proxmox" />
+  <img align="center" src="https://img.shields.io/badge/Terminal-2E2E2E?style=for-the-badge&logo=Windows+Terminal&logoColor=ffffff" alt="Terminal" />
+  <img align="center" src="https://img.shields.io/badge/Network%20Engineering-00599C?style=for-the-badge&logo=cisco&logoColor=white" alt="Networking" />
 </p>
 
+---
 
-- 👀 View my portfolio here: [Portfolio](https://jairogarcia1.github.io/Portfolio/)
-- 💬 Message me here: [Linkedin](https://www.linkedin.com/in/jairo-garc%C3%ADa/)
-- 📫 Reach me via email: [jairo-123@live.com](jairo-123@live.com)
+### 🚀 About Me
+I'm a Seattle-based IT professional transitioning into **System Administration**. I have a passion for tinkering with hardware and building resilient virtualized environments. 
 
+- 🎓 Recent Grad **B.S. in Network Engineering and Security** at Western Governors University.
+- 🐍 Working through the **100 Days of Code** Python challenge to automate infrastructure tasks.
+- 🛡️ Just finished training in **Wazuh** for SIEM and security monitoring.
+- 🥾 When I'm not in the terminal, I'm likely hiking or fly fishing.
 
+### 🛠️ Key Projects
+* 🏠 **Home Lab** – Virtualizing enterprise stacks on a **Dell PowerEdge** via **Proxmox**.
+* 📡 **Networking** – Architecting **Cisco** topologies in **CML**, **GNS3**, and **Packet Tracer**.
+* ☁️ **Cloud** – Deploying **Azure Virtual Networks** and managing **Hybrid Identity**.
+* 🐍 **Automation** – Mastering **Python** for DevOps via the **100 Days of Code** challenge.
+
+---
 
 ### Connect with me  
-<div align="center">
+<p align="center">
 <a href="https://www.linkedin.com/in/jairo-garc%C3%ADa/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
 </a>  
 <a href="https://github.com/jairogarcia1?tab=repositories" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" />
 </a>
-<a href="https://www.twitter.com/ga22068100/" target="_blank">
-<img src=https://img.shields.io/badge/Jairogarcia__-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+<a href="mailto:jairo-123@live.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
 </a>
-</div> 
+</p>
 
-![page views](https://komarev.com/ghpvc/?username=jairogarcia1&label=visitors)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jairogarcia1&label=visitors" alt="page views" />
+</p>
