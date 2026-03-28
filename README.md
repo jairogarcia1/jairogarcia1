@@ -20,7 +20,7 @@ I'm a Seattle-based IT professional transitioning into **System Administration**
 - 🥾 When I'm not in the terminal, I'm likely hiking or fly fishing.
 
 ### 🛠️ Key Projects
-* 🏠 **Home Lab** – Virtualizing enterprise stacks on a **Dell PowerEdge** via **Proxmox**.
+* 🏠 **Home Lab** – Virtualizing enterprise stacks on **Proxmox**.
 * 📡 **Networking** – Architecting **Cisco** topologies in **CML**, **GNS3**, and **Packet Tracer**.
 * ☁️ **Cloud** – Deploying **Azure Virtual Networks** and managing **Hybrid Identity**.
 * 🐍 **Automation** – Mastering **Python** for DevOps via the **100 Days of Code** challenge.
