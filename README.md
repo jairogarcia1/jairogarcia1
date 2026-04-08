@@ -15,14 +15,13 @@
 I'm a Seattle-based IT professional transitioning into **System Administration**. I have a passion for tinkering with hardware and building resilient virtualized environments. 
 
 - 🎓 Recent Grad **B.S. in Network Engineering and Security** at Western Governors University.
-- 🐍 Working through the **100 Days of Code** Python challenge to automate infrastructure tasks.
+- 🐍 Working through the **100 Days of Code** Python challenge.
 - 🛡️ Just finished training in **Wazuh** for SIEM and security monitoring.
 - 🥾 When I'm not in the terminal, I'm likely hiking or fly fishing.
 
 ### 🛠️ Key Projects
-* 🏠 **Home Lab** – Virtualizing enterprise stacks on **Proxmox**.
 * 📡 **Networking** – Architecting **Cisco** topologies in **CML**, **GNS3**, and **Packet Tracer**.
-* ☁️ **Cloud** – Deploying **Azure Virtual Networks** and managing **Hybrid Identity**.
+* ☁️ **Cloud** – **Learn to Cloud**.
 * 🐍 **Automation** – Mastering **Python** for DevOps via the **100 Days of Code** challenge.
 
 ---
