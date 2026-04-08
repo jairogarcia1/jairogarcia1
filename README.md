@@ -12,7 +12,7 @@
 ---
 
 ### 🚀 About Me
-I'm a Seattle-based IT professional transitioning into **System Administration**. I have a passion for tinkering with hardware and building resilient virtualized environments. 
+I'm a Seattle-based IT professional transitioning into **Cloud Engineering**. I have a passion for tinkering with hardware and building resilient virtualized environments. 
 
 - 🎓 Recent Grad **B.S. in Network Engineering and Security** at Western Governors University.
 - 🐍 Working through the **100 Days of Code** Python challenge.
@@ -20,7 +20,7 @@ I'm a Seattle-based IT professional transitioning into **System Administration**
 - 🥾 When I'm not in the terminal, I'm likely hiking or fly fishing.
 
 ### 🛠️ Key Projects
-* 📡 **Networking** – Architecting **Cisco** topologies in **CML**, **GNS3**, and **Packet Tracer**.
+* 📡 **Networking** – Building **Cisco** topologies in **CML**, **GNS3**, and **Packet Tracer**.
 * ☁️ **Cloud** – **Learn to Cloud**.
 * 🐍 **Automation** – Mastering **Python** for DevOps via the **100 Days of Code** challenge.
 
