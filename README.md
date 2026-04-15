@@ -12,7 +12,7 @@
 ---
 
 ### 🚀 About Me
-I'm a Seattle-based IT professional transitioning into **Cloud Engineering**. I have a passion for tinkering with hardware and building resilient virtualized environments. 
+I'm a Seattle-based IT professional and aspiring **Cloud Engineer**. I have a passion for tinkering with hardware and building resilient virtualized environments. 
 
 - 🎓 Recent Grad **B.S. in Network Engineering and Security** at Western Governors University.
 - 🐍 Working through the **100 Days of Code** Python challenge.
